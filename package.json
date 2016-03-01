@@ -1,0 +1,22 @@
+{
+  "name": "node-openmax-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jean343/Node-OpenMAX-Samples.git"
+  },
+  "author": "jean343",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jean343/Node-OpenMAX-Samples/issues"
+  },
+  "homepage": "https://github.com/jean343/Node-OpenMAX-Samples#readme",
+  "dependencies": {
+    "openmax": "0.0.2"
+  }
+}
